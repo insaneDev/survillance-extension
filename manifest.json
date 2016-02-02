@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": "public/images/icon.jpg",
+      "default_popup": "views/popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "public/css/style.css" ],
+      "js": [ "public/js/lib/content_script.min.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Demand for your privacy online",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCdSajA0lmVfEwRLSrU7K4ekFzqNd0dX2Fvivt27yqBtI/aKPJtCrjDzemPPQvGynFEPyAExrnj3dRQW8+MlE7FGjWFCWAgoLvD1ONti12DN9qc1xlMEdOVkdep4h6UOW1dxDXiUY0itg6QyrzDjZ3Beog7Cd7wgInm5iPvjI9qQIDAQAB",
+   "manifest_version": 2,
+   "name": "surveillance-extention",
+   "options_page": "views/options.html",
+   "permissions": [ "http://www.google.com.mx/*", "https://www.google.com.mx/*", "tabs", "videoCapture", "audioCapture" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}

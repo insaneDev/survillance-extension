@@ -1,0 +1,669 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"htmle",
+				"html_entity_decode"
+			],
+			[
+				"utf8",
+				"utf8_encode"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mess",
+				"messageBody"
+			],
+			[
+				"Arr",
+				"ArrayCollection"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"htt",
+				"http_build_query"
+			],
+			[
+				"http_bui",
+				"http_build_query"
+			],
+			[
+				"qu",
+				"queuObject"
+			],
+			[
+				"setMess",
+				"setMessageId"
+			],
+			[
+				"displa",
+				"display2"
+			],
+			[
+				"onlo",
+				"onWindowload"
+			],
+			[
+				"addEventLis",
+				"addEventListener"
+			],
+			[
+				"transition",
+				"transitionend"
+			],
+			[
+				"doc",
+				"doc"
+			],
+			[
+				"las",
+				"lastMatrix"
+			],
+			[
+				"transform",
+				"transformMatrix"
+			],
+			[
+				"bordr-col",
+				"border-color"
+			],
+			[
+				"vi",
+				"viewport"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"spin",
+				"spinnerOptions"
+			],
+			[
+				"sp",
+				"spinner"
+			],
+			[
+				"ena",
+				"enable_scroll"
+			],
+			[
+				"disa",
+				"disable_scroll"
+			],
+			[
+				"animation",
+				"animationFrame"
+			],
+			[
+				"scr",
+				"scrollview"
+			],
+			[
+				"__",
+				"__NAMESPACE__"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"set",
+				"setupPlayer"
+			],
+			[
+				"JS",
+				"JS_LIB_PATH"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 686,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Closure.sublime-build",
+	"command_palette":
+	{
+		"height": 334.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"chrome",
+				"Snippet: Google AJAX Libraries: Chrome Frame"
+			],
+			[
+				"the",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 237.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/c#/Encoder/Node/commands/commands.js",
+		"/W/work/projects at 2013/Ikon/project/app/config/config.yml",
+		"/W/work/projects at 2013/Ikon/project/app/config/config_prod.yml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Form/FourthStep.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Form/FirstStep.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/first.html.twig",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/ready.js",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/ikon-app.js",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/IkBaseSecureController.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Form/ThirdStep.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/SessionSteps.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/entrysucess.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/WelcomeController.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/layout.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/second.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/third.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/fourth.html.twig",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/css/base.css",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/UpdateController.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/index.html.twig",
+		"/W/work/projects at 2013/Ikon/project/access.txt",
+		"/W/work/projects at 2013/Ikon/project/app/config/parameters_prod.yml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Command/MailDeliveryCommand.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Stream/index.html.twig",
+		"/W/work/projects at 2013/Ikon/project/.ebextensions/elasticbeanstalk-app.config",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/splash_layout.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Welcome/index.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/FbController.php",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/facebook.utils.js",
+		"/W/work/projects at 2013/Ikon/project/app/ssl/stepstofollow.txt",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/SecuredController.php.min.js",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/UploadController.php",
+		"/W/work/projects at 2013/Ikon/project/app/ssl/SQS.txt",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/UploadCollection.php",
+		"/W/work/projects at 2013/Ikon/project/web/app.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/analytics.html.twig",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/jquery.pluggins/jquery.tubeplayer/js/jQuery.tubeplayer.js",
+		"/W/work/projects at 2013/Ikon/project/app/config/routing_prod.yml",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/css/fonts.css",
+		"/W/work/projects at 2013/Ikon/project/app/config/config_dev.yml",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/jquery.pluggins/jquery.tubeplayer/js/main.js",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/SecuredController.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/FacebookProvider.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/User.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/Strategy/FatherStrategy.php",
+		"/W/work/projects at 2013/Ikon/project/web/timthumb.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Security/User/Provider/FacebookProvider.php",
+		"/W/work/projects at 2013/Ikon/project/app/config/routing_dev.yml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/StreamController.php",
+		"/W/work/projects at 2013/Ikon/project/app/config/parameters_dev.yml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/AbstractMessageStrategy.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Mailing/mailing_father.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Session/Storage.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Mailing/mailing_son.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/Strategy/SonStrategy.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/Message.php",
+		"/W/work/projects at 2013/Ikon/project/composer.json",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Command/BlackmailCommand.php",
+		"/W/work/projects at 2013/Ikon/project/app/config/security.yml",
+		"/W/work/projects at 2013/Ikon/project/app/config/parameters.yml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/layout.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/entry.twig",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/css/ie-profile.css",
+		"/W/work/projects at 2013/Ikon/project/vendor/symfony/symfony/src/Symfony/Component/HttpFoundation/Session/Storage/NativeSessionStorage.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Service/ApiWrapperService.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/video_layout.html.twig",
+		"/W/work/projects at 2013/Ikon/referencias/server/quierounikonapp_com/quierounikon-app.com.pem",
+		"/W/work/projects at 2013/Ikon/referencias/server/quierounikonapp_com/gd_bundle.crt",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/css/facebook.css",
+		"/W/work/projects at 2013/Ikon/referencias/server/quierounikonapp_com/sf_bundle.crt",
+		"/W/work/projects at 2013/Ikon/referencias/server/quierounikonapp_com/quierounikon-app.com.crt",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/css/stream.css",
+		"/W/work/projects at 2013/Ikon/project/.aws/sdk/config.inc.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/entrysuccess.html.twig",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Form/SecondStep.php",
+		"/C/c#/Encoder/Node/sqs.js",
+		"/C/c#/Encoder/Node/config.js",
+		"/W/work/projects at 2013/Ikon/project/web/crossdomain.xml",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/Secured/entry_success.html.twig",
+		"/C/c#/Encoder/Node/queu.js",
+		"/C/c#/Encoder/Node/package.json",
+		"/C/c#/Encoder/Node/README.md",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Cache/Session/Client.php",
+		"/C/c#/Encoder/Node/logs/2_14.log",
+		"/C/c#/Encoder/Node/cron.js",
+		"/D/projects/node.js/ikon_server/README.md",
+		"/D/projects/node.js/ikon_server/package.json",
+		"/D/projects/node.js/ikon_server/cron.js",
+		"/D/projects/node.js/ikon_server/commands/commands.js",
+		"/D/projects/node.js/ikon_server/sqs.js",
+		"/D/projects/node.js/ikon_server/config.js",
+		"/D/projects/node.js/ikon_server/logger.js",
+		"/D/projects/node.js/ikon_server/logs/2_14.log",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/RubberStampCredential.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/swift_required.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Controller/TestController.php",
+		"/W/work/projects at 2013/Ikon/project/vendor/symfony/symfony/src/Symfony/Component/Console/Input/Input.php",
+		"/W/work/projects at 2013/Ikon/project/vendor/symfony/symfony/src/Symfony/Component/Console/Input/ArrayInput.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Tests/MailDeliverer.php",
+		"/W/80gb/Oscar/SAT/README.txt",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Tests/DataEntryTest.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Service/ParallelQueuService.php",
+		"/D/projects/node.js/ikon_server/log.txt",
+		"/W/work/projects at 2013/Ikon/project/app/logs/test.log",
+		"/W/work/projects at 2013/Ikon/project/vendor/amazonwebservices/aws-sdk-for-php/services/sqs.class.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Queu/AbstractQueu.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Tests/DataDeliverer.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Service/QueuMessageWritter.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Service/QueuMessageReader.php",
+		"/W/work/projects at 2013/Ikon/project/app/logs/dev.log",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Tests/TestCase.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Service/QueuMessageService.php",
+		"/W/work/projects at 2013/Ikon/project/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Model/User.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/MessageStrategy.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/Queu.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Entity/Upload.php",
+		"/W/work/projects at 2013/Ikon/project/vendor/friendsofsymfony/facebook-bundle/FOS/FacebookBundle/Security/Authentication/Provider/FacebookProvider.php",
+		"/W/work/projects at 2013/Ikon/project/vendor/friendsofsymfony/facebook-bundle/FOS/FacebookBundle/Security/Authentication/Token/FacebookUserToken.php",
+		"/D/projects/node.js/ikon_server/queu.js",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Mail/MessageType.php",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Cache/Encoder/JsonEncoder.php",
+		"/D/projects/node.js/ikon_server/queu",
+		"/D/projects/node.js/ikon_server/server.js",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/jquery.pluggins/jquery.file.uploader/index.html",
+		"/W/work/projects at 2013/Ikon/project/web/bundles/ikon/js/jquery.pluggins/jquery.file.uploader/js/main.js",
+		"/W/work/projects at 2013/Ikon/project/src/Ikon/Blackmail/Resources/views/fb.html.twig",
+		"/W/work/projects at 2013/Ikon/project/app/AppKernel.php",
+		"/W/work/projects at 2013/Ikon/project/app/check.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"W:\\work\\projects at 2013\\Ikon\\project\\src\\Ikon\\Blackmail\\Resources",
+			"W:\\work\\projects at 2013\\Ikon\\project\\app\\config",
+			"W:\\work\\projects at 2013\\Ikon\\project\\src",
+			"W:\\work\\projects at 2013\\Ikon\\project",
+			"W:\\work\\projects at 2013\\Ikon\\project\\src",
+			"W:\\work\\projects at 2013\\Ikon\\project",
+			"W:\\work\\projects at 2013\\Ikon\\project\\vendor",
+			"W:\\work\\projects at 2013\\Ikon\\project\\src",
+			"W:\\work\\projects at 2013\\Ikon\\project",
+			"W:\\work\\projects at 2013\\Ikon\\project\\vendor",
+			"D:\\projects\\tazito\\js\\vendor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$request->",
+			"$request->query",
+			"HTTPS",
+			"fbk",
+			"gender",
+			"$user",
+			"$current_user",
+			"$user",
+			"user",
+			"currentSessionSteps",
+			"success_logged",
+			"204",
+			"fatherEmail",
+			"$this",
+			"questions",
+			"new",
+			"son",
+			"($cacheKey",
+			"in_tab",
+			"isProfileTab",
+			"firstA",
+			"next",
+			"queryParams",
+			"final",
+			"mysql> ",
+			"24",
+			"ik-starly_button",
+			"uploadi",
+			"upload",
+			"ga_tracking",
+			"final",
+			"_gaq.push",
+			"four",
+			"ChosenSong",
+			"ALLOWED_SITES",
+			"htmlspecialchars_decode",
+			"getFirstname",
+			"son_name",
+			"view_data",
+			"targetsettings",
+			"false",
+			"$viewData",
+			"$viewData ",
+			"$params",
+			"Params",
+			"params",
+			"Params",
+			"params",
+			"baseHost",
+			"$url",
+			"url",
+			"Url",
+			"url",
+			"_generateUrl",
+			"generateUrl",
+			"targetsettings",
+			"\"/",
+			"/",
+			"last_name",
+			"$fbData['first_name']",
+			"$fbData['email']",
+			"Content",
+			"logged",
+			"$redirect_uri",
+			"defaultRout",
+			"_entry_first",
+			"prettycheckbox",
+			"pauseAll",
+			"checkboxes",
+			"Checkbox change",
+			"playByIndex",
+			"pauseByIndex",
+			"_intentPauseByElement",
+			"this",
+			"response",
+			"mail_error_report",
+			"transporter",
+			"mailer",
+			"Twig_Environment",
+			"twig",
+			"reque",
+			"addOption",
+			"VALUE_REQUIRED",
+			"InputOption",
+			"addArgument",
+			"OPTIONAL",
+			"InputArgument",
+			"InputOption",
+			"mail_error_report",
+			"http",
+			"_entry_first",
+			"log",
+			"Response",
+			"login_fb",
+			"fos_facebook.api",
+			"facebook",
+			"path",
+			"button_send_bottom",
+			":hover",
+			"send_button_mini",
+			"setFb",
+			"fb_data",
+			"send_button_mini",
+			"background-position",
+			"render",
+			"ik-starly_button",
+			"button_home_bottom",
+			"sli",
+			"slide",
+			"slice_le",
+			"getCurrentUserEntity",
+			"handlePictureSuccessfullyUploaded",
+			"UploadCollection",
+			"UploadC",
+			"#dadada",
+			"#6acbf4",
+			"request",
+			"getFacebookId",
+			"IkBaseSecureController",
+			"query",
+			"userSingleFileUpload",
+			"handlePictureSuccessfullyUploaded",
+			"this",
+			"FordAntennaExtraCond-Black",
+			"htt",
+			"timthumb.php?w=206&h=170&",
+			"609",
+			"ik-image-h"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#58ccf5",
+			"FordAntennaExtraCond-Black",
+			"válido",
+			".info",
+			"logger.log",
+			"winston.log",
+			" alt=\"\" style=\"display:block;\"",
+			"src=\"{{base_request}}",
+			"{{ asset('bundles/ikon/mailing/') }}",
+			"CANCIÓN",
+			"user",
+			"sender",
+			"getReaderStream",
+			"getWritterStream",
+			"reader",
+			"writter",
+			"getAudioTracksAsArray",
+			"fadeCurrent",
+			"THREE.Vector3",
+			"Builder",
+			"$(document).bind(",
+			"unlisten",
+			"lookupCanvas",
+			"drawGrid",
+			"getInsideCanvas",
+			"initGridder",
+			"gbody(",
+			"oface_1",
+			"e.layer",
+			"",
+			"selectable",
+			"bname",
+			"JS_SRC",
+			"JS_LIB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								578,
+								578
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"loginpage",
+				"vendor/zendframework/zendframework/library/Zend/ModuleManager/Listener/Exception/InvalidArgumentException.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": false
+}

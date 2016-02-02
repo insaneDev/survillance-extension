@@ -1,0 +1,13 @@
+!!!
+html
+  head
+    title= "Wait for it"
+    link(rel='stylesheet', href='../public/css/style.css')    
+    script(src='../public/js/lib/ender.min.js')
+    script(src='../public/js/lib/popup.js')
+ body
+  em.button Please wait until webcam stream has been initialized
+
+  div#the_video
+    <video autoplay></video>
+  <device type="media" onchange="update(this.data)"></device>
